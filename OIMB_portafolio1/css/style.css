@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+
+* {
+  font-family: "Roboto Slab", serif;
+}
+
+#banner {
+  background-color: #Dae7eb;
+    color: #1853db;
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  #texto {
+    margin-top: 200px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+  }
+  #imagen {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+  }
+  p {
+    font-size: 4mm;
+    text-align: justify;
+  }
+  h1 {
+    text-align: center;
+  }
+
+  #cv {
+    margin-top: 20px;
+    margin-left: 30px;
+  }
+
+  #col-cv1{
+    background-color: #ebf4f9;
+  }
+
+  #cv h1,h3{
+    color: 
+    #3d6f84;
+  }
+
+  #proyectos{
+    margin-bottom: 200px;
+    margin-top: 50px;
+  }
+
+  #tit-proy{
+    margin-top: 200px;
+    color: white;
+  }
+
+  #banner a{
+    text-decoration: none;
+    color: white;
+  }
+
+  #proyectos button a{
+    text-decoration: none;
+    color: white;
+  }
+
+  #proyecto1 h1{
+    text-align: center;
+  }
+
+  #proyecto1 a{
+    text-decoration: none;
+    color: white;
+  }
+
+  #proyecto2 a{
+    text-decoration: none;
+    color: white;
+  }
+  #proyecto1 img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #body1{
+    background-image: url("../img/bg-proyecto1.jpg");
+  }
+  #proyecto1{
+    background-color:white;
+  }
+
+  #body2{
+    background-image: url("../img/bg-proyecto2.jpg");
+  }
+  #proyecto2{
+    background-color:white;
+  }
+
+  #body3{
+    background-image: url("../img/bg-proyecto3.jpg");
+    color: white;
+  }
+
+  #proyecto3 {
+    margin-top:30px;
+    background-color: #1853db;
+  }
+
+  #body0{
+    background-image: url("../img/bg-cv.jpg");
+  }
